@@ -1,0 +1,52 @@
+{
+    "california_housing": {
+        "name": "california_housing",
+        "source": "google colab's sample data",
+        "type": "table"
+    },
+    "titanic": {
+        "name": "titanic",
+        "source": "https://www.kaggle.com/c/titanic",
+        "type": "table"
+    },
+    "heart_failure": {
+        "name": "heart_failure",
+        "source": "https://www.kaggle.com/andrewmvd/heart-failure-clinical-data/tasks?taskId=4904",
+        "type": "table"
+    },
+    "heart_disease_uci": {
+        "name": "heart_disease_uci",
+        "source": "https://www.kaggle.com/ronitf/heart-disease-uci",
+        "type": "table"
+    },
+    "heart_disease_from_uci": {
+        "name": "heart_disease_from_uci",
+        "source": "https://www.kaggle.com/sonumj/heart-disease-dataset-from-uci",
+        "type": "table"
+    },
+    "breast_cancer": {
+        "name": "breast_cancer",
+        "source": "https://www.kaggle.com/mahmed97/breast-cancer",
+        "type": "table"
+    },
+    "diabetes": {
+        "name": "diabetes",
+        "source": "https://www.kaggle.com/shrishtrips/diabetes/tasks",
+        "type": "table"
+    },
+    "corona": {
+        "name": "corona",
+        "source": "https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset",
+        "type": "table"
+    },
+    "mnist": {
+        "name": "mnist",
+        "source": "https://www.kaggle.com/jidhumohan/mnist-png",
+        "type": "image"
+    },
+    "malaria": {
+        "name": "malaria",
+        "source": "https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria",
+        "type": "image"
+    }
+}
