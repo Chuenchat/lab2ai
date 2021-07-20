@@ -24,11 +24,6 @@
         "source": "https://www.kaggle.com/sonumj/heart-disease-dataset-from-uci",
         "type": "table"
     },
-    "breast_cancer": {
-        "name": "breast_cancer",
-        "source": "https://www.kaggle.com/mahmed97/breast-cancer",
-        "type": "table"
-    },
     "diabetes": {
         "name": "diabetes",
         "source": "https://www.kaggle.com/shrishtrips/diabetes/tasks",
